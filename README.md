@@ -9,13 +9,13 @@ Objetivo del proyecto
 Desarrollar una aplicación que permita practicar los conceptos de desarrollo móvil, integración de imágenes, CRUD, y el uso de APIs y mapas para agregar más funcionalidades como la ubicación de la tienda o del producto.
 
 Funcionalidades principales
-Crear (Insertar): Permite agregar un nuevo producto ingresando su nombre, precio, descripción e imagen desde la galería o cámara del dispositivo. 
-Leer (Listar): Muestra una lista con todos los productos almacenados, mostrando imagen, nombre y precio. 
-Actualizar (Editar): Permite modificar los datos de un producto existente. 
-Eliminar (Borrar): Elimina un producto de la lista. 
-Imágenes: Cada producto puede incluir una fotografía seleccionada desde la cámara o galería. 
-(Futuro)Mapas: Se planea incluir un mapa para ubicar el lugar donde se vende el producto o la tienda. 
-(Futuro)Consumo de API: Se integrarán APIs externas para mejorar la funcionalidad (por ejemplo, conversión de precios, ubicación o inventarios). 
+- Crear (Insertar): Permite agregar un nuevo producto ingresando su nombre, precio, descripción e imagen desde la galería o cámara del dispositivo. 
+- Leer (Listar): Muestra una lista con todos los productos almacenados, mostrando imagen, nombre y precio. 
+- Actualizar (Editar): Permite modificar los datos de un producto existente. 
+- Eliminar (Borrar): Elimina un producto de la lista. 
+- Imágenes: Cada producto puede incluir una fotografía seleccionada desde la cámara o galería. 
+- (Futuro)Mapas: Se planea incluir un mapa para ubicar el lugar donde se vende el producto o la tienda. 
+- (Futuro)Consumo de API: Se integrarán APIs externas para mejorar la funcionalidad (por ejemplo, conversión de precios, ubicación o inventarios). 
 
 
 Estructura del proyecto
@@ -29,7 +29,7 @@ Estructura del proyecto
      - Precio  
      - Descripción  
      - Botón para seleccionar imagen desde cámara o galería  
-   - Botón (Guardar).
+     - Botón (Guardar).
 
 3. Editar producto
    - Permite modificar los datos de un producto ya existente.  
@@ -37,7 +37,7 @@ Estructura del proyecto
 
 4. Detalle del producto
    - Muestra la información completa del producto seleccionado.  
-   Incluye botones (Editar y Eliminar).
+   - Incluye botones (Editar y Eliminar).
 
 
 
