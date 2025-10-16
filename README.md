@@ -47,7 +47,6 @@ Profesor: Ever Barahona
 Fecha: 16 de octubre del 2025  
 
 
-Mockups visuales
 <img width="725" height="1037" alt="image" src="https://github.com/user-attachments/assets/adff88bb-7e69-4c20-ae8a-10b9262c7862" />
 
 <img width="796" height="1081" alt="image" src="https://github.com/user-attachments/assets/1c8e19f8-4075-4f6e-aaa4-911f1ac4f6ad" />
