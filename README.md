@@ -45,3 +45,13 @@ Autor
 Nombre: Yendry Morera  
 Profesor: Ever Barahona  
 Fecha: 16 de octubre del 2025  
+
+
+Mockups visuales
+<img width="725" height="1037" alt="image" src="https://github.com/user-attachments/assets/adff88bb-7e69-4c20-ae8a-10b9262c7862" />
+
+<img width="796" height="1081" alt="image" src="https://github.com/user-attachments/assets/1c8e19f8-4075-4f6e-aaa4-911f1ac4f6ad" />
+
+<img width="804" height="1106" alt="image" src="https://github.com/user-attachments/assets/64a2e091-d5de-45b8-a73a-a9ca854a8b92" />
+
+<img width="713" height="1194" alt="image" src="https://github.com/user-attachments/assets/fd0cf629-f381-49f1-ba31-800d7679f15a" />
